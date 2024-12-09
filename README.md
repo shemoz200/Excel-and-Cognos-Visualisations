@@ -6,8 +6,8 @@ Welcome to my data visualization portfolio! This repository highlights my projec
 ---
 
 ## Table of Contents
-1. 1. [Excel Visualizations](Excel-Visualizations/README.md)
-2. [IBM Cognos Analytics Dashboards](Cognos-Dashboards/README.md)
+1.Excel Visualizations]
+2.IBM Cognos Analytics Dashboards
 
 
 ---
@@ -24,7 +24,7 @@ Welcome to my data visualization portfolio! This repository highlights my projec
   - Profit by Date and Model (Line Chart)
   - Profit by Year and Dealer ID (Column Chart)
 
-[Explore the Excel Visualizations Project](./Excel-Visualizations/README.md)
+
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to my data visualization portfolio! This repository highlights my projec
   - Sales Dashboard
   - Service Dashboard
 
-[Explore the Cognos Dashboards Project](./Cognos-Dashboards/README.md)
+
 
 ---
 
@@ -45,19 +45,25 @@ Welcome to my data visualization portfolio! This repository highlights my projec
 
 ### **Excel Visualizations**
 #### Quantity Sold by Dealer ID
-![Bar Chart Example](./Excel-Visualizations/images/bar-chart.png)
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/cb693efd-dfac-4741-9808-3b7384d8af5b">
+
 
 #### Profit by Date and Model
-![Line Chart Example](./Excel-Visualizations/images/line-chart.png)
+<img width="1167" alt="image" src="https://github.com/user-attachments/assets/b6891ef5-42bf-4788-aaaa-658e6fd0dce2">
+
 
 ---
 
 ### **IBM Cognos Analytics Dashboards**
 #### Sales Dashboard
-![Sales Dashboard](./Cognos-Dashboards/images/sales-dashboard.png)
+<img width="1325" alt="image" src="https://github.com/user-attachments/assets/d65c09a1-889a-41d8-b8f8-1193abe16b83">
+
+
 
 #### Service Dashboard
-![Service Dashboard](./Cognos-Dashboards/images/service-dashboard.png)
+<img width="1325" alt="image" src="https://github.com/user-attachments/assets/12e66065-a579-4a25-968d-a160d51b3fb1">
+
+
 
 
 
@@ -84,12 +90,7 @@ This project focuses on analyzing car sales data using Microsoft Excel. The goal
 
 ---
 
-## Sample Visualizations
-### Quantity Sold by Dealer ID
-![Bar Chart Example](./images/bar-chart.png)
 
-### Profit by Date and Model
-![Line Chart Example](./images/line-chart.png)
 
 # IBM Cognos Analytics Dashboards
 
