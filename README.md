@@ -6,8 +6,9 @@ Welcome to my data visualization portfolio! This repository highlights my projec
 ---
 
 ## Table of Contents
-1. [Excel Visualizations](./Excel-Visualizations/README.md)
-2. [IBM Cognos Analytics Dashboards](./Cognos-Dashboards/README.md)
+1. 1. [Excel Visualizations](Excel-Visualizations/README.md)
+2. [IBM Cognos Analytics Dashboards](Cognos-Dashboards/README.md)
+
 
 ---
 
